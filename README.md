@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DZXZ21</h1>
-<h3 align="center">I LIVE IN TURKEY</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzxx21&label=Profile%20views&color=0e75b6&style=flat" alt="dzxx21" /> </p>
 
