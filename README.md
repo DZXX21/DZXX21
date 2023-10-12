@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm DZXZ21</h1>
 
+<script src="https://tryhackme.com/badge/1267170"></script>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzxx21&label=Profile%20views&color=0e75b6&style=flat" alt="dzxx21" /> </p>
 
